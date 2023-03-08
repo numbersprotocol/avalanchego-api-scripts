@@ -1,6 +1,17 @@
 #!/bin/bash
 
-NODE_ID="NodeID-BXTBUqX8gitUDtVam4fhRWGD1SfeHGoBx"
+# numbers nodes
+#NODE_ID="NodeID-BXTBUqX8gitUDtVam4fhRWGD1SfeHGoBx"
+
+# avalabs nodes
+#NODE_ID="NodeID-GfRY31feBaTknS7uvpF7XHromUfckDeWh"
+#NODE_ID="NodeID-HUNYARt6cNSXgANtsSakokNpRCUKCFoVS"
+#NODE_ID="NodeID-ELcEoPFQPwAQmnndhM7QXtVc6sQiJiTHu"
+#NODE_ID="NodeID-31xXC3YuXN5S9Bv9d63kH7ev1vuQKG3wR"
+#NODE_ID="NodeID-62hKwt6g9MMngpDLHapNFJmxXRcDoe2sc"
+#NODE_ID="NodeID-ABaXv5WwxLamczWpE6o58Dm5FyngUbFrg"
+#NODE_ID="NodeID-26jY6nu8uyVyQLQpi3SMdvSTbMTZeajHD"
+
 SUBNET_ID="2gHgAgyDHQv7jzFg6MxU2yyKq5NZBpwFLFeP8xX2E3gyK1SzSQ"
 
 subnet-cli add subnet-validator \
